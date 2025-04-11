@@ -1,0 +1,17 @@
+{
+  "name": "interview-questions-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "commander": "^13.1.0",
+    "inquirer": "^12.5.2",
+    "moment": "^2.30.1"
+  }
+}
