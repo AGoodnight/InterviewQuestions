@@ -1,5 +1,5 @@
 const { program } = require('commander');
-const questions = require('./questions.test.json');
+const questions = require('./questions.json');
 const fs = require('fs')
 const { default: inquirer } = require('inquirer');
 const moment = require('moment');
